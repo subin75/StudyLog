@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <ImageView
+            android:id="@+id/account_iv_profile"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/ic_account" />
+        <LinearLayout
+            android:gravity="center"
+            android:layout_toRightOf="@+id/account_iv_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="8"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/post" />
+
+                <TextView
+                    android:id="@+id/account_tv_post_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/count_0" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/list"
+            android:layout_width="130dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/background_radius_yellow"
+            android:gravity="center"
+            android:text="list" />
+
+        <Button
+            android:id="@+id/logout_button"
+            android:layout_width="130dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="270dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/background_radius_yellow"
+            android:gravity="center"
+            android:text="logout" />
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/account_reyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_user_photo"></androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

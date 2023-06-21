@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "335009329256",
+    "firebase_url": "https://studylog-e990b-default-rtdb.firebaseio.com",
+    "project_id": "studylog-e990b",
+    "storage_bucket": "studylog-e990b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335009329256:android:8286ea05e88d13fb1dcbdd",
+        "android_client_info": {
+          "package_name": "com.example.studylog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335009329256-a90b3kvfedc596cr98ldaon1d3pg202b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studylog",
+            "certificate_hash": "cbea849707ad22789b2dff1fa9d24a1c67a17f6a"
+          }
+        },
+        {
+          "client_id": "335009329256-pdakfo5ignd3ebqgf52jfl2a1d0il2sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studylog",
+            "certificate_hash": "5e1a4ffcc3b7928ab459e922c8e27854ce501025"
+          }
+        },
+        {
+          "client_id": "335009329256-9c5581ctqsvlk1bgo6aubhg0aaip979u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDN7HiLHoFSJnLcgy3iC7ZTd7fPxpZw94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335009329256-9c5581ctqsvlk1bgo6aubhg0aaip979u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
