@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/completedIconView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_png"
+        android:layout_marginTop="10dp"
+        android:maxWidth="32dp"
+        android:maxHeight="32dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:clipToOutline="true"/>
+    <TextView
+        android:id="@+id/itemTitleView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@id/completedIconView"
+        app:layout_constraintTop_toTopOf="parent"
+        android:ellipsize="end"
+        android:maxLines="1"/>
+    <TextView
+        android:id="@+id/itemContentView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_below="@+id/itemTitleView"
+        app:layout_constraintTop_toBottomOf="@id/itemTitleView"
+        app:layout_constraintStart_toEndOf="@id/completedIconView"
+        android:ellipsize="end"
+        android:maxLines="1"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/itemModify"
+        android:text="수정"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        app:layout_constraintRight_toLeftOf="@id/itemDelete"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/itemDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="삭제"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

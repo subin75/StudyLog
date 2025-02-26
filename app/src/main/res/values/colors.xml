@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkgray">#FF595959</color>
+
+    <color name="main_color">#434C63</color>
+    <color name="list_color_done">#A9EFBF</color>
+    <color name="list_color_default">#F7EEDE</color>
+    <color name="light_main_color">#CFD7EB</color>
+
+    <color name="colorPrimary">#ededed</color>
+    <color name="colorPrimaryDark">#e1e1e1</color>
+    <color name="colorLightGray">#f1f1f1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivision">#e0e0e0</color>
+    <color name="colorNavIcon">#1d1d1d</color>
+    <color name="colorGoogleSignIn">#d34836</color>
+    <color name="colorGoogleSignInPressed">#b02513</color>
+    <color name="colorEmailSignIn">#009688</color>
+    <color name="colorEmailSignInPressed">#004D40</color>
+
+    <color name="mainColor1">#FDF1DB</color>
+    <color name="mainColor2">#EE8532</color>
+    <color name="mainColor3">#99EE8532</color>
+    <color name="mainColor4">#E6EE8532</color>
+
+    <color name="colorRed">#FFFFABAB</color>
+    <color name="colorOrange">#FFFFD1AB</color>
+    <color name="colorYellow">#FFFFFFAB</color>
+    <color name="colorGreen">#FFBDFFAB</color>
+    <color name="colorBlue">#FFABF5FF</color>
+    <color name="colorNavy">#FFABCBFF</color>
+    <color name="colorPurple">#FFCDABFF</color>
+    <color name="colorPink">#FFFFABFF</color>
+
+    <array name="rainbowColor">
+        <item>@color/colorRed</item>
+        <item>@color/colorOrange</item>
+        <item>@color/colorYellow</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorBlue</item>
+        <item>@color/colorNavy</item>
+        <item>@color/colorPurple</item>
+        <item>@color/colorPink</item>
+    </array>
+</resources>
