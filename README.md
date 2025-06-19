@@ -4,9 +4,10 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 ## 🥬 소개
-코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
+코틀린 언어를 사용한 공부 관련된 프로젝트입니다.
 
-![ChatGPT Image 2025년 6월 19일 오전 10_15_09](https://github.com/user-attachments/assets/5e86b00f-8f17-4c6b-b857-9d2b55c24eb5)
+![ChatGPT Image 2025년 6월 19일 오전 10_21_34](https://github.com/user-attachments/assets/2f99de52-e1a3-4b7d-850a-2d82dde931f9)
+
 
 
 
@@ -18,26 +19,24 @@
 
 ## 📑 요약
 ### 1. **주제**
-   - '풀무원' 브랜드 웹사이트 리뉴얼
+   - '공부'관련된 앱
      
 ### 2. **목표**
    - 중복되는 컨텐츠 정리 및 전체 비율 수정 등으로 사용자 만족도 향상 
      
 ### 3. **개발 환경**
-   - HTML, SCSS
+   - KOTLIN , FIREBASE
      
 ### 4. **기간 및 인원**
-   - 2025.01.23 ~ 2025.02.26 (35일), 4인
+   - 2025.01.23 ~ 2025.02.26 (35일), 2인
 
 
 
 ## 🙌 담당 직무(개인수정)
-| 이름   | GitHub                              | 직무              |해당 |
+| 이름  | 직무              |해당 |
 |:--------:|:---------------------------------------:|:-------------------:|:----:|
-| 김도연 | [doyeon](https://github.com/dododoodo) | 팀장 |     |
-| **여태경** | [taekyung](https://github.com/ytk27) | 개발 |      |
-| 천지호 | [jiho](https://github.com/jiho8) | 디자인 |    |
-| 황수빈 | [subin](https://github.com/subin75) | 기획 |  ✔      |
+| 하수빈 | 팀장 |     |
+| 황수빈 | [subin](https://github.com/subin75) | 기획 |  ✔  |
 
 
 
