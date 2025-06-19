@@ -6,7 +6,8 @@
 ## 🥬 소개
 코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
 
-![KakaoTalk_20250225_124157692_01](https://github.com/user-attachments/assets/266a00cb-5bff-4218-8115-173057fd74ca)
+![ChatGPT Image 2025년 6월 19일 오전 10_15_09](https://github.com/user-attachments/assets/5e86b00f-8f17-4c6b-b857-9d2b55c24eb5)
+
 
 
 
