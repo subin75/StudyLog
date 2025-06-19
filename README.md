@@ -1,5 +1,5 @@
-(![그림1](https://github.com/user-attachments/assets/8ff808cb-5bf7-4320-8ddf-57e88fe3a7de)
-)]
+![그림1](https://github.com/user-attachments/assets/8ff808cb-5bf7-4320-8ddf-57e88fe3a7de)
+
 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
