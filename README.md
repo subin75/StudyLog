@@ -4,14 +4,13 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 ## 🥬 소개
-기존의 **풀무원** 사이트를 리디자인 및 재구성한 리뉴얼 프로젝트입니다.
+코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
 
 ![KakaoTalk_20250225_124157692_01](https://github.com/user-attachments/assets/266a00cb-5bff-4218-8115-173057fd74ca)
 
 
 
 ## 🔗 URL
-- 기존 <https://www.pulmuone.co.kr/pulmuone/main/Index.do>
 - 리뉴얼 <https://ytk27.github.io/Green-B-Project/>
 
 
