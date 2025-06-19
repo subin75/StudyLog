@@ -6,7 +6,8 @@
 ## 🥬 소개
 코틀린 언어를 사용한 공부 관련된 프로젝트입니다.
 
-![ChatGPT Image 2025년 6월 19일 오전 10_21_34](https://github.com/user-attachments/assets/2f99de52-e1a3-4b7d-850a-2d82dde931f9)
+![2](https://github.com/user-attachments/assets/e19acd2f-bee0-41b2-9974-2434fd4f188e)
+
 
 
 
@@ -22,7 +23,7 @@
    - '공부'관련된 앱
      
 ### 2. **목표**
-   - 중복되는 컨텐츠 정리 및 전체 비율 수정 등으로 사용자 만족도 향상 
+   - 사용자들이 이 어플리케이션 하나만으로 편리하게 공부와 관련된 것들을 할 수 있도록 하는 것
      
 ### 3. **개발 환경**
    - KOTLIN , FIREBASE
@@ -111,11 +112,7 @@
 | 환경 및 기술            | 명칭                                                 | Badge                                                           |
 |:-----------------:|:-----------------------------------------------------:|:-------------------------------------------------------------:|
 | **웹 브라우저**      | Chrome                                                 | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) |`
-| **마크업 언어**      | HTML5                                               | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-| **스크립트 언어**      | JavaScript                                               | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-| **스타일링**      | SASS,CSS                                                 | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |`
-| **라이브러리**      | jQuery                                             |![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |`
-| **디자인/프로토타입**      | Figma         |![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |`
+| **스크립트 언어**      | Kotlin                                              | ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 | **배포**          | GitHub                                               | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|`
 
 
