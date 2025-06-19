@@ -9,13 +9,8 @@
 ![2](https://github.com/user-attachments/assets/e19acd2f-bee0-41b2-9974-2434fd4f188e)
 
 
-
-
-
-
 ## 🔗 URL
 - 리뉴얼 <https://ytk27.github.io/Green-B-Project/>
-
 
 
 ## 📑 요약
@@ -26,7 +21,7 @@
    - 사용자들이 이 어플리케이션 하나만으로 편리하게 공부와 관련된 것들을 할 수 있도록 하는 것
      
 ### 3. **개발 환경**
-   - KOTLIN , FIREBASE
+   - AndroidStudio, Kotlin , Firebase
      
 ### 4. **기간 및 인원**
    - 2025.01.23 ~ 2025.02.26 (35일), 2인
