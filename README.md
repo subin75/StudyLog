@@ -1,59 +1,7 @@
 ![그림1](https://github.com/user-attachments/assets/8ff808cb-5bf7-4320-8ddf-57e88fe3a7de)
 
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-## 🥬 소개
-공부시간을 측정하고 공유하는 앱, "StudyLog" 입니다.
-
-![2](https://github.com/user-attachments/assets/e19acd2f-bee0-41b2-9974-2434fd4f188e)
-
-
-## 📑 요약
-### 1. **주제**
-   - '공부'관련된 앱
-     
-### 2. **목표**
-   - 사용자들이 이 어플리케이션 하나만으로 편리하게 공부와 관련된 것들을 할 수 있도록 하는 것이 목표입니다
-     
-### 3. **개발 환경**
-   - AndroidStudio, Kotlin, Firebase
-     
-### 4. **기간 및 인원**
-   - 2023.09 - 2023.12 2인
-
-
-
-## 🙌 담당 직무
-| 이름  | 직무              |해당 |
-|:--------:|:-------------------:|:----:|
-| 하수빈 | 팀장 |     |
-| 황수빈 | 기획 |  ✔  |
-
-
-
-## 💡 주요 기능
-
-### 1. 로그인
-   - 이메일 회원가입
-   - 구글 간편로그인
-
-### 2. To-do List
-   - 사용자가 직접 과목명, 내용을 추가하여 공부계획 수립
-   - 수정, 삭제
-
-### 3. 스톱워치
-   - 과목을 추가하여 과목별로 공부 시간 측정
-   - 통계(스톱워치로 측정했던 시간을 토대로 일,월간 총 공부 시간과 평균공부 시간 확인)
-
-### 4. 게시물
-   - 업로드 (이미지 포함)
-   - 좋아요
-   - 댓글등록
-
- ### 5. 마이페이지
-   - 사용자가 업로드한 게시물
-   - 좋아요한 목록
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.i인
    - 로그아웃
 
 
