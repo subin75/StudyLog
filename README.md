@@ -4,7 +4,7 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 ## 🥬 소개
-코틀린 언어를 사용한 공부 관련된 프로젝트입니다.
+공부시간을 측정하고 공유하는 앱, "StudyLog" 입니다.
 
 ![2](https://github.com/user-attachments/assets/e19acd2f-bee0-41b2-9974-2434fd4f188e)
 
